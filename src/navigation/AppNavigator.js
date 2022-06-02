@@ -29,7 +29,7 @@ const Main = () => {
         headerShown: false,
       }}
     >
-      <MainStack.Screen name="Login" component={login} />
+      <MainStack.Screen name="login" component={login} />
       <MainStack.Screen name ="Signup" component ={Signup} />
       <MainStack.Screen name ="MainTabs" component ={MainTabs} />
       

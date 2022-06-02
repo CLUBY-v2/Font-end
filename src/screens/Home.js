@@ -20,7 +20,7 @@ export default function ({ navigation }) {
     const [clubs,setClubs] = useState([]);
    
     const [search,setSearch] = useState("");
-// FETCHING DATA USING axios
+// FETCHING DATA USING axios 
 useEffect(()=>{
     axios.get("http://localhost:3000/events")
     .then((response) => {

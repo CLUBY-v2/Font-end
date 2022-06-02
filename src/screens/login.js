@@ -29,7 +29,7 @@ export default function Login( {navigation}) {
                         style={styles.logoStyle} />
                     <Input holder="Please enter your e-mail!" />
                     <Input holder="Please enter your password!" />
-                    <Button title='Login' onPress = {() => 
+                    <Button title='login' onPress = {() => 
                     navigation.navigate('MainTabs')} 
                     />
                     <Button title="Sign Up" onPress ={() => 

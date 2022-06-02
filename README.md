@@ -1,6 +1,6 @@
 # CLUBY V2
 Developed by <br />
-Mahdibds <br />
+Mahdi Boudabous<br />
 Anis Mahmoud <br />
 Aymen Cherni <br />
 

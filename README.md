@@ -1,8 +1,8 @@
 # CLUBY V2
-Developed by < br /> 
-Mahdibds < br /> 
-Anis Mahmoud < br /> 
-Aymen Cherni < br /> 
+Developed by <br />
+Mahdibds <br />
+Anis Mahmoud <br />
+Aymen Cherni <br />
 
 ## Description 
 Cluby app developed using React native, node.js, express.js, Mongo DB 
